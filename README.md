@@ -8,7 +8,7 @@ https://maven.google.com/androidx/browser/browser/1.3.0/browser-1.3.0.aar
   https://raw.githubusercontent.com/dandar3/android-androidx-browser/1.3.0/.projectset
 
 **Requires:**
-- `Android 9 (API 28) SDK Platform`
+- `Android 11 (API 30) SDK Platform`
 
 **References:**
 - https://developer.android.com/jetpack
